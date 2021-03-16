@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vers10ne
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Flutter & Dart
-- 💞️ I’m looking for others to collaborate on a project
+- 🌱 I’m currently learning Flutter & Dart, Solidity, AI, ..
+- 💞️ I’m looking to collaborate on projects and for others to help on projects
 - 📫 How to reach me educating.vernon@gmail.com
 
 <!---
